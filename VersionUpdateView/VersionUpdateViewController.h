@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  VersionUpdateViewController.h
 //  VersionUpdateView
 //
 //  Created by syt on 2020/4/28.
@@ -8,8 +8,12 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
+
+@interface VersionUpdateViewController : UIViewController
+
 
 
 @end
 
+NS_ASSUME_NONNULL_END
